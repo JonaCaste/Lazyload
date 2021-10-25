@@ -1,6 +1,8 @@
 # Lazyload
 Interfaz que carga los datos progresivamente creando una animación de carga , los datos son almacenados en un JSON que posteriormente es cargado simulando la carga de datos de personas.
 
+* Link - [Lazyload](https://jonacaste.nidcode.com/projectos/lazyload/lazyload.html)
+
 ## Construido con 🛠️
 
 * [HTML](https://developer.mozilla.org/es/docs/Web/HTML) - Lenguajes de marcas de hipertexto.
